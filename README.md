@@ -13,3 +13,12 @@
 - [Mobile Application](#mobile-application)
 - [Topics used for implementation](#topics-used-for-implementation)
 - [Additional Info.](#additional-information)
+
+## Description.
+- A compelete smart surveillance system that is deployed on Rasbperry PI 4 Camera. The system is able to detect Fire and weapons in real time and report the location of the camera via a backend server by sms, emails and a mobile application. All done in max 4 seconds. 
+
+### Real-Time, Neat Build, And can be exteneded.
+<p align="middle">
+ <img src="https://user-images.githubusercontent.com/58152328/162644467-080f1001-f2c9-4c10-a2cd-5f2dccad9a4a.PNG" width="620" height="450">  
+ <img src="https://user-images.githubusercontent.com/58152328/162644496-6bcb7183-17b6-48e8-a310-482525e32b84.jpg" width="620" height="450">   
+</p>
