@@ -38,7 +38,7 @@
 ---
 
 ## Deep Learning Model
-### Yolo V3 Tiny CNN.
+### Tiny Yolo V3  CNN.
 <p align="middle">
  <img src="https://user-images.githubusercontent.com/58152328/162645124-e8cdc3aa-4a46-4e40-ab09-d0aaf028dede.png" width="620" height="450">
 </p>
