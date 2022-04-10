@@ -22,3 +22,9 @@
  <img src="https://user-images.githubusercontent.com/58152328/162644467-080f1001-f2c9-4c10-a2cd-5f2dccad9a4a.PNG" width="620" height="450">  
  <img src="https://user-images.githubusercontent.com/58152328/162644496-6bcb7183-17b6-48e8-a310-482525e32b84.jpg" width="620" height="450">   
 </p>
+
+## System Architecture
+
+<p align="middle">
+ <img src="https://user-images.githubusercontent.com/58152328/162644593-be4d8fa3-ef8c-4f34-bec5-7be79c647e13.jpg" width="1000" height="478">
+</p>
