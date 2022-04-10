@@ -32,6 +32,10 @@
 </p>
 ---
 
+## Hardware
+### Rasbperry PI 4, Camera Module V2.
+
+---
 ## Deep Learning Model
 ### Yolo V3 Tiny CNN.
 <p align="middle">
