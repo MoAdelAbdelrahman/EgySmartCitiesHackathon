@@ -7,7 +7,7 @@
  
 - [Description](#description)
 - [System Architecture.](#system-architecture)
-- [Hardware] (#hardware)
+- [Hardware](#hardware)
 - [Deep Learning Model](#deep-learning-model)
 - [Email and Sms Notifying](#email-and-sms-notifying)
 - [Mobile Application](#mobile-application)
