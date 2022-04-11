@@ -65,6 +65,8 @@
 - APIs in Amazaon AWS.
 - Flutter, AWS DynamoDB.
 
+---
+
 ## Awards
 ### Egypt's First Smart Cities Hackathon Smart Surveillance first place, Second place overall tracks out of 478 teams.
 <p align="middle">
