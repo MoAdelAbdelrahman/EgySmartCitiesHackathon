@@ -5,13 +5,13 @@
 
  ### Table of Contents.
  
-- [Description](#description)
+- [Description.](#description)
 - [System Architecture.](#system-architecture)
-- [Hardware](#hardware)
-- [Deep Learning Model](#deep-learning-model)
-- [Email and Sms Notifying](#email-and-sms-notifying)
-- [Mobile Application](#mobile-application)
-- [Topics used for implementation](#topics-used-for-implementation)
+- [Hardware.](#hardware)
+- [Deep Learning Model.](#deep-learning-model)
+- [Email and Sms Notifying.](#email-and-sms-notifying)
+- [Mobile Application.](#mobile-application)
+- [Topics used for implementation.](#topics-used-for-implementation)
 - [Awards.](#Awards)
 
 ## Description.
