@@ -49,6 +49,5 @@
 ### Amazon AWS Lambda Back-End server, AWS SNS.
 <p align="middle">
  <img src="https://user-images.githubusercontent.com/58152328/162645247-d64a1105-4b1d-49d4-b88f-3acf6b074e11.jpeg" width="620" height="1280">
- <img src="https://user-images.githubusercontent.com/58152328/162645247-d64a1105-4b1d-49d4-b88f-3acf6b074e11.jpeg" width="620" height="1280">
 </p>
 
