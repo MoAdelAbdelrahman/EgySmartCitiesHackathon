@@ -50,4 +50,11 @@
 <p align="middle">
  <img src="https://user-images.githubusercontent.com/58152328/162645247-d64a1105-4b1d-49d4-b88f-3acf6b074e11.jpeg" width="620" height="1280">
 </p>
+---
 
+## Mobile Application
+### Flutter application, Dashboard data via Amazon AWS DynamoDB.
+<p align="middle">
+ <img src="https://user-images.githubusercontent.com/58152328/162646018-e6d2374f-b170-4557-adb5-314ea7a2e49b.jpeg" width="620" height="1280">
+ <img src="https://user-images.githubusercontent.com/58152328/162646017-2833d929-cfbc-423a-97c6-70b4efc23816.jpg" width="620" height="1280">
+</p>
