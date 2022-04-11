@@ -12,7 +12,7 @@
 - [Email and Sms Notifying](#email-and-sms-notifying)
 - [Mobile Application](#mobile-application)
 - [Topics used for implementation](#topics-used-for-implementation)
-- [Additional Info.](#additional-information)
+- [Awards.](#Awards)
 
 ## Description.
 - A compelete smart surveillance system that is deployed on Rasbperry PI 4 Camera. The system is able to detect Fire and weapons in real time and report the location of the camera via a backend server by sms, emails and a mobile application. All done in max 4 seconds. 
@@ -64,3 +64,9 @@
 - Rasbperry PI configuration.
 - APIs in Amazaon AWS.
 - Flutter, AWS DynamoDB.
+
+## Awards
+### Egypt's First Smart Cities Hackathon Smart Surveillance first place, Second place overall tracks out of 478 teams.
+<p align="middle">
+ <img src="https://user-images.githubusercontent.com/58152328/162646374-a01a9ce6-bbdf-41e3-89fe-a61bd3609b1b.jpg" width="1280" height="853">
+</p>
